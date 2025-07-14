@@ -51,18 +51,16 @@ http://localhost:3000
 
 ---
 
-##  Screenshots (with Comments)
-
-> Replace `/public/screenshots/` with your own captured images.
+ 
 
 ### 🏠 Dashboard Overview
-![Dashboard Screenshot](public/screenshots/dashboard.png)
+
 > 📊 View key performance metrics with Chart.js bar graph.
 
 ---
 
 ### 👥 Employees Page
-![Employees Screenshot](public/screenshots/employees.png)
+
 > 🔍 List all employees with performance data.
 
 ---
